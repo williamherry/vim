@@ -8,13 +8,9 @@ My personal Vim configurations and some plugins which I used in my daily job.
 
 3. copy files to your home directory:
 
-        git clone git://github.com/williamherry/william-vim.git
+        git clone git://github.com/williamherry/william-vim.git ~/.vim
 
-4. make a symbolic link `.vim` to `william-vim` that you just cloned, or just rename it to `.vim` also be fine:
+4. setup vim
 
-        ln -sv william-vim ~/.vim
-
-5. link the vimrc to 
-
-        ln -sv ~/.vim/vimrc ~/.vimrc
-
+        cd ~/.vim
+        sh update.sh
