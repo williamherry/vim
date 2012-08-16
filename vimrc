@@ -7,11 +7,18 @@ filetype off                   " required!
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
-" let Vundle manage Vundle, required! 
+" let Vundle manage Vundle, required!
 Bundle 'gmarik/vundle'
 
 " My Bundles here:
 Bundle 'scrooloose/nerdtree'
+Bundle 'jistr/vim-nerdtree-tabs'
+Bundle 'kien/ctrlp.vim'
+Bundle 'tpope/vim-surround'
+Bundle 'msanders/snipmate.vim'
+Bundle 'vim-ruby/vim-ruby'
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'c9s/colorselector.vim'
 
 filetype plugin indent on     " required!
 "
@@ -23,6 +30,3 @@ filetype plugin indent on     " required!
 "
 " see :h vundle for more details or wiki for FAQ
 " NOTE: comments after Bundle command are not allowed..
-
-" settings for NERDTree
-nmap <F2> :NERDTreeToggle <CR>
