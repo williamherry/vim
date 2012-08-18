@@ -19,6 +19,12 @@ Bundle 'msanders/snipmate.vim'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'c9s/colorselector.vim'
+Bundle 'Shougo/neocomplcache'
+Bundle 'plasticboy/vim-markdown'
+Bundle 'scroolose/nerdcommenter'
+Bundle 'ervandew/supertab'
+Bundle 'kchmck/vim-coffee-script'
+Bundle 'tpope/vim-repeat'
 
 filetype plugin indent on     " required!
 "
