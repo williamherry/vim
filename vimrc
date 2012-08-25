@@ -24,7 +24,6 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'ervandew/supertab'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-repeat'
-Bundle 'vim-scripts/sudo.vim'
 
 filetype plugin indent on     " required!
 "
