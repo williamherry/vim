@@ -8,7 +8,7 @@ My personal Vim configurations and some plugins which I used in my daily job.
 
 3. copy files to your home directory:
 
-        git clone git://github.com/williamherry/william-vim.git ~/.vim
+        git clone git://github.com/williamherry/vim.git ~/.vim
 
 4. setup vim
 
