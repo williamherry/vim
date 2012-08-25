@@ -21,10 +21,11 @@ Bundle 'Lokaltog/vim-powerline'
 Bundle 'c9s/colorselector.vim'
 Bundle 'Shougo/neocomplcache'
 Bundle 'plasticboy/vim-markdown'
-Bundle 'scroolose/nerdcommenter'
+Bundle 'scrooloose/nerdcommenter'
 Bundle 'ervandew/supertab'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-repeat'
+Bundle 'vim-scripts/sudo.vim'
 
 filetype plugin indent on     " required!
 "
