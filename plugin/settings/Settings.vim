@@ -11,7 +11,7 @@ set hidden
 set linespace=0
 set cursorline
 set nofoldenable
-set number
+set nonumber
 set numberwidth=4
 set title
 set showmode
