@@ -12,8 +12,7 @@ My personal Vim configurations and some plugins which I used in my daily job.
 
 4. setup vim
 
-        cd ~/.vim
-        sh setup.sh
+        sh .vim/setup.sh
 
 5. when add new plugins to `.vimrc`, run follow command to update
 
