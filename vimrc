@@ -25,6 +25,7 @@ Bundle 'ervandew/supertab'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
+Bundle 'honza/snipmate-snippets'
 
 filetype plugin indent on     " required!
 "
