@@ -15,7 +15,6 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'jistr/vim-nerdtree-tabs'
 Bundle 'kien/ctrlp.vim'
 Bundle 'tpope/vim-surround'
-Bundle 'msanders/snipmate.vim'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'c9s/colorselector.vim'
@@ -25,7 +24,8 @@ Bundle 'ervandew/supertab'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
-Bundle 'honza/snipmate-snippets'
+Bundle 'williamherry/snippets'
+Bundle 'othree/html5.vim'
 
 filetype plugin indent on     " required!
 "
