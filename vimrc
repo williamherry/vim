@@ -26,6 +26,7 @@ Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
 Bundle 'williamherry/snippets'
 Bundle 'othree/html5.vim'
+Bundle 'avakhov/vim-yaml'
 
 filetype plugin indent on     " required!
 "
