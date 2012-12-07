@@ -28,6 +28,7 @@ Bundle 'tpope/vim-fugitive'
 Bundle 'williamherry/snippets'
 Bundle 'othree/html5.vim'
 Bundle 'avakhov/vim-yaml'
+Bundle 'jimenezrick/vimerl'
 
 filetype plugin indent on     " required!
 "

@@ -67,7 +67,7 @@ set tm=500
 " file encoding
 set encoding=utf-8
 set fileencodings=ucs-bom,utf-8,big5,euc-jp,gbk,euc-kr,utf-bom,iso8859-1,euc-jp,utf-16le,latin1
-set fenc=utf-8 enc=utf-8 tenc=utf-8
+" set fenc=utf-8 enc=utf-8 tenc=utf-8
 scriptencoding utf-8
 
 " ignores
@@ -89,7 +89,7 @@ autocmd WinLeave * setlocal nocursorline
 "  custom key and plugin configurations
 " ======================================
 " remove tailing whitespace
-autocmd BufWritePre * :%s/\s\+$//e
+" autocmd BufWritePre * :%s/\s\+$//e
 
 " comment
 map <Leader><Leader> <Leader>c<space>
