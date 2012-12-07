@@ -29,6 +29,7 @@ Bundle 'williamherry/snippets'
 Bundle 'othree/html5.vim'
 Bundle 'avakhov/vim-yaml'
 Bundle 'jimenezrick/vimerl'
+Bundle 'kchmck/vim-coffee-script'
 
 filetype plugin indent on     " required!
 "
