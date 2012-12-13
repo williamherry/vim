@@ -41,7 +41,7 @@ set incsearch                         " incremental search
 syntax enable
 set t_Co=256
 try
-  colorscheme railscasts
+  colorscheme rails_envy
 catch
 endtry
 
@@ -116,3 +116,4 @@ map <leader>0 :topleft 100 :split README.md<CR>
 
 " for paste
 map <F3> :r! cat <CR>
+set list listchars=tab:..,trail:.
