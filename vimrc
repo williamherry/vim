@@ -33,6 +33,8 @@ Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-endwise'
 Bundle 'vim-scripts/ZoomWin'
 Bundle 'Townk/vim-autoclose'
+Bundle 'kchmck/vim-coffee-script'
+Bundle 'nono/vim-handlebars'
 
 filetype on                   " required!
-Bundle 'kchmck/vim-coffee-script'
+filetype plugin indent on
