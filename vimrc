@@ -21,7 +21,6 @@ Bundle 'c9s/colorselector.vim'
 Bundle 'plasticboy/vim-markdown'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'ervandew/supertab'
-Bundle 'kchmck/vim-coffee-script'
 Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-surround'
@@ -35,3 +34,5 @@ Bundle 'tpope/vim-endwise'
 Bundle 'vim-scripts/ZoomWin'
 Bundle 'Townk/vim-autoclose'
 
+filetype on                   " required!
+Bundle 'kchmck/vim-coffee-script'
