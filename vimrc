@@ -25,7 +25,6 @@ Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-surround'
 Bundle 'tpope/vim-fugitive'
-Bundle 'williamherry/snippets'
 Bundle 'othree/html5.vim'
 Bundle 'avakhov/vim-yaml'
 Bundle 'jimenezrick/vimerl'
@@ -35,6 +34,7 @@ Bundle 'vim-scripts/ZoomWin'
 Bundle 'Townk/vim-autoclose'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'nono/vim-handlebars'
+Bundle 'slim-template/vim-slim'
 
 filetype on                   " required!
 filetype plugin indent on
