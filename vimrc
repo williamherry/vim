@@ -35,6 +35,7 @@ Bundle 'Townk/vim-autoclose'
 Bundle 'kchmck/vim-coffee-script'
 Bundle 'nono/vim-handlebars'
 Bundle 'slim-template/vim-slim'
+Bundle 'godlygeek/tabular'
 
 filetype on                   " required!
 filetype plugin indent on
