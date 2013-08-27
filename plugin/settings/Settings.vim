@@ -40,7 +40,7 @@ set incsearch                         " incremental search
 syntax enable
 set t_Co=256
 try
-  colorscheme ir_black
+  colorscheme william
 catch
 endtry
 
