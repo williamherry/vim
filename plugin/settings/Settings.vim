@@ -26,9 +26,8 @@ set switchbuf=useopen
 set showtabline=2                     " always show tab
 set wildmode=longest,list             " use emacs-style tab completion when selecting files, etc
 set wildmenu                          " make tab completion for files/buffers act like bash
-set key=			                        " disable encryption
-set synmaxcol=128
-set viminfo=			                    " disable .viminfo file
+set key=                              " disable encryption
+set viminfo=                          " disable .viminfo file
 set ttyfast                           " send more chars while redrawing
 
 filetype indent on                    " enable filetype-specific indenting
