@@ -36,6 +36,7 @@ Bundle 'nono/vim-handlebars'
 Bundle 'slim-template/vim-slim'
 Bundle 'godlygeek/tabular'
 Bundle 'junegunn/vim-easy-align'
+Bundle 'mileszs/ack.vim'
 
 filetype on                   " required!
 filetype plugin indent on
