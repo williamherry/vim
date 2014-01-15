@@ -38,6 +38,7 @@ Bundle 'godlygeek/tabular'
 Bundle 'junegunn/vim-easy-align'
 Bundle 'mileszs/ack.vim'
 Bundle 'AndrewRadev/vim-eco'
+Bundle 'tpope/vim-fugitive'
 
 filetype on                   " required!
 filetype plugin indent on
