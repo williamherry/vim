@@ -39,6 +39,7 @@ Bundle 'junegunn/vim-easy-align'
 Bundle 'mileszs/ack.vim'
 Bundle 'AndrewRadev/vim-eco'
 Bundle 'tpope/vim-fugitive'
+Bundle 'rking/ag.vim'
 
 filetype on                   " required!
 filetype plugin indent on
