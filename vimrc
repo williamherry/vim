@@ -8,6 +8,7 @@ filetype off                   " required!
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
+
 " let Vundle manage Vundle, required!
 Bundle 'gmarik/vundle'
 
@@ -40,6 +41,9 @@ Bundle 'mileszs/ack.vim'
 Bundle 'AndrewRadev/vim-eco'
 Bundle 'tpope/vim-fugitive'
 Bundle 'rking/ag.vim'
+Bundle 'rizzatti/dash.vim'
 
 filetype on                   " required!
 filetype plugin indent on
+
+let g:vim_markdown_initial_foldlevel=99
