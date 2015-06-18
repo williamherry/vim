@@ -25,7 +25,6 @@ Bundle 'ervandew/supertab'
 Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-surround'
-Bundle 'tpope/vim-fugitive'
 Bundle 'othree/html5.vim'
 Bundle 'avakhov/vim-yaml'
 Bundle 'jimenezrick/vimerl'
@@ -42,6 +41,8 @@ Bundle 'AndrewRadev/vim-eco'
 Bundle 'tpope/vim-fugitive'
 Bundle 'rking/ag.vim'
 Bundle 'rizzatti/dash.vim'
+Bundle 'pangloss/vim-javascript'
+Bundle 'mxw/vim-jsx'
 
 filetype on                   " required!
 filetype plugin indent on
