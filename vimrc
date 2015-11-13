@@ -48,3 +48,4 @@ filetype on                   " required!
 filetype plugin indent on
 
 let g:vim_markdown_initial_foldlevel=99
+let g:SuperTabCrMapping=1
