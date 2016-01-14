@@ -112,8 +112,6 @@ cnoremap %% <C-R>=expand('%:h').'/'<CR>
 nmap <leader>v :tabe $MYVIMRC<CR>
 map <leader>0 :topleft 100 :split README.md<CR>
 
-map! cc CtrlPClearCache
-
 " for paste
 map <F3> :r! cat <CR>
 set list listchars=tab:..,trail:.
