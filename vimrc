@@ -32,7 +32,6 @@ Bundle 'tpope/vim-endwise'
 Bundle 'vim-scripts/ZoomWin'
 Bundle 'Townk/vim-autoclose'
 Bundle 'kchmck/vim-coffee-script'
-Bundle 'nono/vim-handlebars'
 Bundle 'slim-template/vim-slim'
 Bundle 'godlygeek/tabular'
 Bundle 'junegunn/vim-easy-align'
@@ -43,6 +42,7 @@ Bundle 'rking/ag.vim'
 Bundle 'rizzatti/dash.vim'
 Bundle 'pangloss/vim-javascript'
 Bundle 'mxw/vim-jsx'
+Bundle 'joukevandermaas/vim-ember-hbs'
 
 filetype on                   " required!
 filetype plugin indent on
